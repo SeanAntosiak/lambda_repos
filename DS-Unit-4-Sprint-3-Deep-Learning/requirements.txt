@@ -41,7 +41,7 @@ mock==3.0.5
 networkx==2.3
 newspaper3k==0.2.8
 nltk==3.4.4
-numpy==1.16.2
+numpy==1.22.0
 pandas==0.24.2
 parso==0.5.0
 patsy==0.5.1
